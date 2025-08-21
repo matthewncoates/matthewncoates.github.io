@@ -11,7 +11,7 @@ redirect_from:
 
 Models of Scientific Communities and Social Epistemology:
 ======
-* **Dissertation: Network Epistemology and Scientific Dissent**
+* **Dissertation: Single and Multilayer Networks in Philosophy**
   * There has been growing concern about so called "epistemically detrimental" dissent in science, and what to do about this dissent. This is dissent which is considered detrimental to the advancement of science. In my dissertaion, I use formal methods from network epistemology to study the effect of sharing evidence that supports dissenting theories. I do this to introduce the tools of network epistemology to the debate on "epistemically detrimental" dissent, where they have not previously been used. By introducing such methods it is possible to offer new possible explanations for observed phenomena, and use the results of these models to lend further support to arguments in this debate.
 * **Does it Harm Science to Suppress Dissenting Evidence?**
   * *Philosophy of Science*. [https://doi.org/10.1017/psa.2024.21](https://doi.org/10.1017/psa.2024.21)
