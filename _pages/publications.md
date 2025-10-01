@@ -11,7 +11,7 @@ redirect_from:
 
 Dissertation: Single and Multilayer Networks in Philosophy:
 ======
-* TNetwork models have been used across a range of areas in philosophy for studying social communities. Two key areas where they have been used are in social epistemology and in studies of the social contract and human behavior. The former have often been focused on questions about the structure of scientific communities, and how those affect the discovery and spread of scientific theories and knowledge (Zollman 2007; Zollman 2010). The latter have been used to show that social ties and social networks significantly influence the cultural evolution and emergence of prosocial behaviors and the social contract (Skyrms, 2004; Zollman, 2005; Alexander, 2007). This dissertation looks at both of these areas where network models have played a role in philosophy, providing novel applications of each.
+* Network models have been used across a range of areas in philosophy for studying social communities. Two key areas where they have been used are in social epistemology and in studies of the social contract and human behavior. The former have often been focused on questions about the structure of scientific communities, and how those affect the discovery and spread of scientific theories and knowledge (Zollman 2007; Zollman 2010). The latter have been used to show that social ties and social networks significantly influence the cultural evolution and emergence of prosocial behaviors and the social contract (Skyrms, 2004; Zollman, 2005; Alexander, 2007). This dissertation looks at both of these areas where network models have played a role in philosophy, providing novel applications of each.
 
 Models of Scientific Communities and Social Epistemology:
 ======
