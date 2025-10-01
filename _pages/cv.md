@@ -9,23 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-A downloadable version of this CV can be found [here](https://github.com/matthewncoates/CV/blob/main/Academic%20CV.pdf)
+Updated 2025/10/01
 
-Updated 2025/01/25
+Employment
+======
+* **Visiting Assistant Teaching Professor** - Philosophy 2025-2026 \\
+  * Bowling Green State University, Ohio   
 
 Education
 ======
-* **Ph.D. Candidate** Philosophy (LPS), *University of California, Irvine*, 2025 [Expected].
+* **Ph.D** Philosophy (LPS), *University of California, Irvine*, 2025 
   * Graduate Emphasis in Biology and the Behavioral Sciences
   * Advisor: Cailin O’Connor
-  * Dissertation: "Network Epistemology and Scientific Dissent"   
+  * Dissertation: "Single and Multilayer Networks in Philosophy"   
 * **MSc**  Philosophy of Science, *The London School of Economics and Political Science*, 2017-2018
 * **BSc (Hons)** Mathematics, *Queen Mary, University of London*, 2014-2017
 
 Publications
 ======
-* **Coates, Matthew**. 2024. “Does it Harm Science to Suppress Dissenting Evidence?” *Philosophy of Science*. https://doi.org/10.1017/psa.2024.21
-* **Coates, Matthew**. "Keynes, Wittgenstein, and Probability in the Tractatus" Forthcoming in *HOPOS*
+* **Coates, Matthew**. 2024. “Does it Harm Science to Suppress Dissenting Evidence?” *Philosophy of Science*. 92(1):82-99.
+* **Coates, Matthew**. "Keynes, Wittgenstein, and Probability in the Tractatus" *HOPOS: The Journal of the International Society for the History of Philosophy of Science*. 15(1): 99-124 https://doi.org/10.1086/734643
 * Sherlock, Emma,  **Matthew Coates** and Csaba Csuzdi. 2022. "Modelling of climatic tolerances of three earthworm species; Satchellius mammalis, Lumbricus friendi and Lumbricus festivus using Maximum Entropy Modeling". *Opuscula Zoologica*. 53(1): 51–65. 
 
 Works in Progress
@@ -37,6 +40,8 @@ Works in Progress
 Talks and Presentations
 ======
 **Refereed**
+*"Cooperating with Friends", The 9th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2025 [Upcoming]. 
+* "Multilayer Networks and the Evolution of Risky Cooperation", PSA Around the World 2025. Online. November 2025 [Upcoming]. 
 * "Multilayer Networks and the Evolution of Risky Cooperation", The 29th Meeting of the Philosophy of Science Association (PSA). New Orleans, LA. November 2024. 
 * "Multilayer Networks and the Evolution of Risky Cooperation", The 8th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2024. 
 * "Does it Harm Science to Suppress Dissenting Evidence?", The 8th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2024. 
@@ -55,6 +60,7 @@ Talks and Presentations
 
 Awards and Fellowships
 ======
+* LPS Graduate Service Award (UC Irvine, 2025, $150) -  For outstanding contributions to graduate student recruitment and mentorship
 * LPS Graduate Service Award (UC Irvine, 2024, $150)
 * LPS Graduate Service Award (UC Irvine, 2023, $150)
 * Social Science Merit Fellowship, School of Social Science (UC Irvine, 2019-2025)
@@ -62,6 +68,11 @@ Awards and Fellowships
 
 Service
 ======
+* **Referee**: The British Journal for the Philosophy of Science
+* **Organizer**, Symposium on “Learning Across Games”, PPE 2025, New Orleans, November 2025.
+* **Library Representative**, Department of Philosophy, Bowling Green State University, 2025-2026.
+* **Activities Chair**, Department of Philosophy, Bowling Green State University, 2025-2026.
+* **Faculty Liaison**, PPEL Club, Bowling Green State University, 2025-2026.
 * **Panelist**, Workshop on teaching logic, UC Irvine, December 2024.
 * **Organizer**, Symposium on “Modeling the Social Structure of Science,” PPE 2024, New Orleans, November 2024.
 * **Coordinator**, Work-in-Progress (WiP) talk series, UC Irvine LPS, 2023-2024.
