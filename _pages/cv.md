@@ -89,22 +89,43 @@ Service
 Teaching
 ======
 **Instructor**
-* Introduction to Symbolic Logic (LPS 30), Summer 2024, UC Irvine
-* Philosophy of Sex (LPS 91), Fall 2023, UC Irvine
-* Introduction to Symbolic Logic (LPS 30), Summer 2023, UC Irvine
+
+Syllabi available on demand
+
+* **Bowling Green State University**
+
+  * Topics in Social and Political Philosophy - Ethics and AI (PHIL 4240), Spring 2026 (Upcoming)
+
+  * Methods of Philosophy, Politics, Economics and Law (PHIL/PPEL 3100), Spring 2026 (Upcoming)
+
+
+  * Introduction to Philosophy (Phil 1010), Spring 2026 (Upcoming)
+
+
+  * Introduction to Philosophy, Politics, Economics and Law (PHIL/PPEL 2240), Fall 2025
+
+  * Introduction to Philosophy (Phil 1010), Fall 2025
+    
+  * Contemporary Moral Issues (Phil 1250), Fall 2025
+  * 
+* **University of California, Irvine**
+  * Introduction to Symbolic Logic (LPS 30), Summer 2024
+  * Philosophy of Sex (LPS 91), Fall 2023
+  * Introduction to Symbolic Logic (LPS 30), Summer 2023
 
 **Teaching Assistant**
-* Voting and Manipulation (Pol Sci 151), Winter 2024, UC Irvine
-* Global Economy (Econ 13), Spring 2023, UC Irvine
-* Philosophy of Sex (LPS 91), Winter 2023, UC Irvine
-* Peoples of the Pacific (Anthro 163A), Fall 2022, UC Irvine
-* Introduction to Inductive Logic (LPS 31), Spring 2022, UC Irvine
-* Introduction to Symbolic Logic (LPS 30), Winter 2022, UC Irvine [Hybrid]
-* Critical Reasoning (LPS 29), Fall 2021, UC Irvine [Online]
-* Introduction to Symbolic Logic (LPS 30), Winter 2021, UC Irvine [Online]
-* Critical Reasoning (LPS 29), Fall 2020, UC Irvine [Online]
-* Introduction to Inductive Logic (LPS 31), Spring 2020, UC Irvine [Online]
-* Critical Reasoning (LPS 29), Winter 2020, UC Irvine
+* **University of California, Irvine**
+  * Voting and Manipulation (Pol Sci 151), Winter 2024, UC Irvine
+  * Global Economy (Econ 13), Spring 2023, UC Irvine
+  * Philosophy of Sex (LPS 91), Winter 2023, UC Irvine
+  * Peoples of the Pacific (Anthro 163A), Fall 2022, UC Irvine
+  * Introduction to Inductive Logic (LPS 31), Spring 2022, UC Irvine
+  * Introduction to Symbolic Logic (LPS 30), Winter 2022, UC Irvine [Hybrid]
+  * Critical Reasoning (LPS 29), Fall 2021, UC Irvine [Online]
+  * Introduction to Symbolic Logic (LPS 30), Winter 2021, UC Irvine [Online]
+  * Critical Reasoning (LPS 29), Fall 2020, UC Irvine [Online]
+  * Introduction to Inductive Logic (LPS 31), Spring 2020, UC Irvine [Online]
+  * Critical Reasoning (LPS 29), Winter 2020, UC Irvine
 
 Research Employment and Collaborations
 ======
@@ -113,6 +134,7 @@ Research Employment and Collaborations
 
 Additional Educational and Professional Training
 ======
+* Active Learning Certification, Bowling Green State University, Fall 2025
 * Mentoring Excellence Certificate Program, UC Irvine, Winter 2025
 * Pedagogy of Kindness Workshop, UC Irvine, Fall 2024
 * Kent Johnson Memorial Fund Teaching Workshop: Syllabus Design, Spring 2023
@@ -122,6 +144,7 @@ Additional Educational and Professional Training
 Graduate coursework(*=audit)
 ======
 **UC Irvine**
+* Evolving Games (with Jeff Barrett and Brian Skyrms)
 * Convention (with Cailin O'Connor)*
 * Self Assembling Games (with Jeff Barrett and Brian Skyrms)
 * Puzzles in Modern Biology (with Steve Frank)
