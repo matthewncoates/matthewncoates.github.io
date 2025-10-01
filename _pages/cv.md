@@ -40,7 +40,8 @@ Works in Progress
 Talks and Presentations
 ======
 **Refereed**
-*"Cooperating with Friends", The 9th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2025 [Upcoming]. 
+
+* "Cooperating with Friends", The 9th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2025 [Upcoming]. 
 * "Multilayer Networks and the Evolution of Risky Cooperation", PSA Around the World 2025. Online. November 2025 [Upcoming]. 
 * "Multilayer Networks and the Evolution of Risky Cooperation", The 29th Meeting of the Philosophy of Science Association (PSA). New Orleans, LA. November 2024. 
 * "Multilayer Networks and the Evolution of Risky Cooperation", The 8th Meeting of the Philosophy, Politics and Economics Society (PPE). New Orleans, LA. November 2024. 
