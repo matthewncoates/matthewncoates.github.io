@@ -9,10 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Dissertation: Single and Multilayer Networks in Philosophy:
+======
+* TNetwork models have been used across a range of areas in philosophy for studying social communities. Two key areas where they have been used are in social epistemology and in studies of the social contract and human behavior. The former have often been focused on questions about the structure of scientific communities, and how those affect the discovery and spread of scientific theories and knowledge (Zollman 2007; Zollman 2010). The latter have been used to show that social ties and social networks significantly influence the cultural evolution and emergence of prosocial behaviors and the social contract (Skyrms, 2004; Zollman, 2005; Alexander, 2007). This dissertation looks at both of these areas where network models have played a role in philosophy, providing novel applications of each.
+
 Models of Scientific Communities and Social Epistemology:
 ======
-* **Dissertation: Single and Multilayer Networks in Philosophy**
-  * There has been growing concern about so called "epistemically detrimental" dissent in science, and what to do about this dissent. This is dissent which is considered detrimental to the advancement of science. In my dissertaion, I use formal methods from network epistemology to study the effect of sharing evidence that supports dissenting theories. I do this to introduce the tools of network epistemology to the debate on "epistemically detrimental" dissent, where they have not previously been used. By introducing such methods it is possible to offer new possible explanations for observed phenomena, and use the results of these models to lend further support to arguments in this debate.
+ 
 * **Does it Harm Science to Suppress Dissenting Evidence?**
   * *Philosophy of Science*. [https://doi.org/10.1017/psa.2024.21](https://doi.org/10.1017/psa.2024.21)
   * [Preprint](https://philsci-archive.pitt.edu/23472/) 
@@ -26,7 +29,7 @@ Evolutionary Game Theory:
 Early Analytic Philosophy:
 ======
 * **Keynes, Wittgenstein, and Probability in the Tractatus**
-  * Forthcoming in *HOPOS*
+  * *HOPOS* [https://doi.org/10.1086/734643](https://doi.org/10.1086/734643)
   * [Preprint](https://philsci-archive.pitt.edu/24159/)
   * <font size = "3"> It has been questioned why Wittgenstein wrote a significant amount on probability in the Tractatus. In this paper I answer this question. I claim that the primary aim of Wittgenstein's account was to criticize a Keynesian theory of probability and provide multiple pieces of evidence to demonstrate this. This then provides an answer to the question of why Wittgenstein wrote such a significant amount on probability. He wrote it because it was salient at the time. Whilst Wittgenstein was at Cambridge there was significant discussion of probability by his philosophical interlocutors, particularly Keynes but also Russell, Moore and others. Wittgenstein thought he had the answers to the problems that were being discussed and set them out in the Tractatus.</font>
 
