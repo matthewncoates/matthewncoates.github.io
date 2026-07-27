@@ -14,7 +14,7 @@ Updated 2025/10/01
 Employment
 ======
 * **Postdoctoral Fellow** - Philosophy, Politics and Economics 2026=
-*   University of Pennsylvania
+  * University of Pennsylvania
 * **Visiting Assistant Teaching Professor** - Philosophy 2025-2026 \\
   * Bowling Green State University, Ohio   
 
