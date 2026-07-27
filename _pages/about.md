@@ -9,7 +9,7 @@ redirect_from:
 ---
 <img align="right" width="300" height="300" src="{{matthewncoates.github.io}}/images/profile.png" hspace="20" vspace="20">
 
-I am a Visiting Assistant Professor in Philosophy, focusing on PPEL (Philosophy, Politics, Economics and Law), at Bowling Green State University, Ohio. I previously received my Ph.D in Philosophy in the Logic and Philosophy of Science department at University of California, Irvine.
+I am a Postdoctoral Fellow in Philosophy, Politics and Economics at the University of Pennsylvania. I previously served as a Assistant Teaching Professor in Philosophy at Bowling Green State University, Ohio and I received my Ph.D in Philosophy in the Logic and Philosophy of Science department at University of California, Irvine.
 
 I work in PPE and Philosophy of Science. My main research interests are in computational philosophy and evolutionary game theory. I have a particular focus on network epistemology, a branch of formal social epistemology that investigates how networks of agents gather and share information. My dissertation used network modeling tools and game theory to study areas in network epistemology, the philosophy of science, and the evolution of human moral behavior.
 
